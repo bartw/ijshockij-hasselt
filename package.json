@@ -4,6 +4,13 @@
   "author": "Bart Wijnants",
   "license": "MIT",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bartw/ijshockij-hasselt"
+  },
+  "bugs": {
+    "url": "https://github.com/bartw/ijshockij-hasselt/issues"
+  },
   "version": "0.0.1",
   "scripts": {
     "build": "gatsby build",
